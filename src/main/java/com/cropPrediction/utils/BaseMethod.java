@@ -29,8 +29,8 @@ import com.amazonaws.services.s3.model.PutObjectRequest;
 public class BaseMethod {
 
 	
-	private static final String ACCESSKEY = "AKIAUR4J52ZLLNJWBCPW";
-	private static final String SECRETKEY = "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";
+	private static final String ACCESSKEY = "xx";
+	private static final String SECRETKEY = "xx";
 
 
 
