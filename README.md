@@ -29,7 +29,7 @@ GradientBoostingRegression and we got 74 to 77% of r2_score.
   
 
 ## UI:- Main Page (Price)
-(/Images/Price_Page)
+![](/Images/Price_Page)
 ## UI:- Main Page (Yield)
 ## Predicting Rice Prices
 ## Algorithm Accuracy (Price)
