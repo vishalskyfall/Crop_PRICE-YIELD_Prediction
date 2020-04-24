@@ -61,6 +61,6 @@ rainfall data.
 
 - Dataset of Crop Prices: [Open Government Data (OGD) Platform India]( https://data.gov.in/)
 
-- Prediction Demo for Learning : [Your First Machine Learning Project in Python Step-By-Step] (https://machinelearningmastery.com/machine-learning-in-python-stepby-step)
+- Prediction Demo for Learning : [Your First Machine Learning Project in Python Step-By-Step(https://machinelearningmastery.com/machine-learning-in-python-stepby-step)
 
-- [Prediction Algorithms] (https://towardsdatascience.com/)
+- [Prediction Algorithms](https://towardsdatascience.com/)
