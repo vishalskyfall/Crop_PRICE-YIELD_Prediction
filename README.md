@@ -27,7 +27,7 @@ GradientBoostingRegression and we got 74 to 77% of r2_score.
   3. Prediction with 3 different Algorithms of Crop Prices and Yields.
   4. Farmer can Login/Register to check prices of crops according to seasons.
   
-# [Youtube] Video On Our Project(https://youtu.be/ehghRhMb5y8)
+# [Youtube](https://youtu.be/ehghRhMb5y8) Video On Our Project
 ## UI:- Main Page (Price)
 ![](/Images/Price_Page.jpg)
 ## UI:- Main Page (Yield)
