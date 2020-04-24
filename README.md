@@ -22,10 +22,10 @@ GradientBoostingRegression and we got 74 to 77% of r2_score.
 
 #### The Whole implementation Phase can be divided into four Steps.
 
-  1 Pre-processing and collection of data of crop prices and crop yields
-  2 Apply 3 different algorithms on data model.
-  3 Prediction with 3 different Algorithms of Crop Prices and Yields.
-  4 Farmer can Login/Register to check prices of crops according to seasons.
+  1. Pre-processing and collection of data of crop prices and crop yields
+  2. Apply 3 different algorithms on data model.
+  3. Prediction with 3 different Algorithms of Crop Prices and Yields.
+  4. Farmer can Login/Register to check prices of crops according to seasons.
   
 
 ## UI:- Main Page (Price)
