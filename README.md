@@ -22,10 +22,10 @@ GradientBoostingRegression and we got 74 to 77% of r2_score.
 
 #### The Whole implementation Phase can be divided into four Steps.
 
-  1 Step 1: Pre-processing and collection of data of crop prices and crop yields
-  2 Step 2: Apply 3 different algorithms on data model.
-  3 Step 3 : Prediction with 3 different Algorithms of Crop Prices and Yields.
-  4 Step 4 : Farmer can Login/Register to check prices of crops according to seasons.
+  1 Pre-processing and collection of data of crop prices and crop yields
+  2 Apply 3 different algorithms on data model.
+  3 Prediction with 3 different Algorithms of Crop Prices and Yields.
+  4 Farmer can Login/Register to check prices of crops according to seasons.
   
 
 ## UI:- Main Page (Price)
@@ -59,12 +59,8 @@ rainfall data.
 
 ## Reference
 
-➢Dataset of Crop Prices: Open Government Data (OGD) Platform India
-➢ https://data.gov.in/
+- Dataset of Crop Prices: [Open Government Data (OGD) Platform India]( https://data.gov.in/)
 
-➢ Prediction Demo for Learning : Your First Machine Learning Project in Python Step-
-By-Step
+- Prediction Demo for Learning : [Your First Machine Learning Project in Python Step-By-Step] (https://machinelearningmastery.com/machine-learning-in-python-stepby-step)
 
-➢https://machinelearningmastery.com/machine-learning-in-python-stepby-step
-
-➢Prediction Algorithms: https://towardsdatascience.com/
+- [Prediction Algorithms] (https://towardsdatascience.com/)
